@@ -35,10 +35,12 @@ Here are some of my notable projects:
 - **[Urban Routes](https://github.com/yuzaraalfaro/urban-routes)**: Automated tests with Selenium in Python to verify UI functions.
 - **[Urban Grocers](https://github.com/yuzaraalfaro/urban-grocers)**: API automated testing with Pytest, verifying API documentation requirements.
 
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzaraalfaro&layout=compact&theme=radical)
+
 ### Let's Connect
 
 I'm always eager to connect with other professionals and explore new opportunities. Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuzara-alfaro/) or check out my projects here on GitHub.
 
 Thanks for visiting my profile!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzaraalfaro&show_icons=true&theme=radical)
