@@ -1,13 +1,8 @@
 
 ![yuzara-banner](https://github.com/yuzaraalfaro/yuzaraalfaro/blob/main/Linkedin%20banner.png?raw=true)
 
-![Profile views](https://komarev.com/ghpvc/?username=yuzaraalfaro&label=Profile%20views&color=blue&style=for-the-badge)
-
-![Commits](https://img.shields.io/github/commit-activity/m/yuzaraalfaro/yuzaraalfaro)
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuzaraalfaro&label=Profile%20views&color=blue&style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/top/yuzaraalfaro/yuzaraalfaro?color=blue)
 ![Repos](https://img.shields.io/github/followers/yuzaraalfaro?style=social)
 ![Commits](https://img.shields.io/github/commit-activity/m/yuzaraalfaro/yuzaraalfaro)
 
