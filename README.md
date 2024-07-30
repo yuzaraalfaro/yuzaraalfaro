@@ -1,3 +1,6 @@
+
+![yuzara-banner](https://github.com/yuzaraalfaro/yuzaraalfaro/blob/main/Linkedin%20banner.png?raw=true)
+
 ## Hi there 👋
 
 I'm **Yuzara Alfaro Arce**, a passionate Quality Assurance Engineer with a strong focus on software quality and test automation. Welcome to my GitHub profile, where you'll find a variety of projects that demonstrate my skills and expertise in the QA field.
