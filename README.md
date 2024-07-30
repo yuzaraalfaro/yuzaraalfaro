@@ -1,7 +1,7 @@
 
 ![yuzara-banner](https://github.com/yuzaraalfaro/yuzaraalfaro/blob/main/Linkedin%20banner.png?raw=true)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=yuzaraalfaro.yuzaraalfaro)
+![Profile views](https://komarev.com/ghpvc/?username=yuzaraalfaro&label=Profile%20views&color=blue&style=for-the-badge)
 
 
 ## Hi there 👋
