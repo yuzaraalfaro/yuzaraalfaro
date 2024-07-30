@@ -51,6 +51,9 @@ Here are some of my notable projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzaraalfaro&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzaraalfaro&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+
 ### Let's Connect
 
 I'm always eager to connect with other professionals and explore new opportunities. Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuzara-alfaro/) or check out my projects here on GitHub.
