@@ -1,6 +1,7 @@
 
 ![yuzara-banner](https://github.com/yuzaraalfaro/yuzaraalfaro/blob/main/Linkedin%20banner.png?raw=true)
-![Profile views](https://img.shields.io/github/visitors/yuzaraalfaro/yuzaraalfaro?label=Profile%20views&color=blue&style=for-the-badge)
+![Profile views](https://img.shields.io/github/visitors/yuzaraalfaro/yuzaraalfaro?label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## Hi there 👋
 
